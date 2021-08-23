@@ -1,0 +1,89 @@
+.contenedor{
+    background-color: black;
+    color: white;
+}
+
+.contenedor__imagen{
+    
+    font-family: $fontMain;
+    font-size: $fontSizeSmall;
+}
+
+.contenedor__titulo{
+    color: #589336;
+}
+
+.mapaNavegacion{
+    background-color: white;
+}
+
+.productosCarousel__imagenes{
+    width: 100%;
+    display: block;
+}
+
+.productosTitulo{
+    color:#589336;
+}
+
+
+.carousel-imagenes{
+    height: 250px;
+}
+
+.alto_imagenes{
+    height: 600px;
+}
+
+.boton_destacados{
+    background-color: #589336;
+    color: white;
+}
+
+.nosotros{
+    background-color: #589336 ;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.nosotros__titulo{
+    text-align: center;
+    color: white;
+    
+}
+
+.nosotros__info{
+    text-align: center;
+    color: white;
+    font-family: $fontMain;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.servicios{
+    background-color: #589336;
+    padding-bottom: 5em;
+    padding-top: 2em;
+    font-family: $fontMain;
+}
+
+.contacto{
+    background-color: #589336;
+}
+
+.contacto__titulo{
+    color: white;
+}
+
+.contacto__medios{
+    color: white;
+    font-family: $fontMain;
+    font-size: $fontSizeBig;
+}
+.nosotros{
+    background-color:  #589336;
+    color: white;
+}
